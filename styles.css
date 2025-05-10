@@ -163,17 +163,24 @@ body {
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
-  top: 165px;
-  left: 127.5px;
+  font-size: 11px;
+  top: 200px;
+  width: 200px;
+  left: 128.5px;
   z-index: 1;
   color: #6a6969;
 }
 
 .shirt div {
   font-weight:  initial;
-  top: 22.5px;
-  left: 12px;
+  top: 20.5px;
 }
+
+.shirt div p{
+    top: 32.5px;
+    right: 200px;
+
+  }
 
 .penguin-body {
   width: 53%;
